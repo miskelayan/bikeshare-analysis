@@ -21,3 +21,7 @@ python bikeshare.py
 2. Run the script:
 
 python bikeshare.py
+
+## Project Purpose
+
+This project was created as part of a data analysis learning process to explore real-world datasets and extract meaningful insights.
